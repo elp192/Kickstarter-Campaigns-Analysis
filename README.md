@@ -1,5 +1,5 @@
 
-# Analysis of Kickstarter Campaigns
+# Kickstarter Campaigns Analysis
 ## Overview of Project
 ### Background
 The Excel sheet includes Kickstarter project data of previous campaigns from 2009 to 2017, which provide information for those who plan to start crowdfunding campaigns. By analyzing previous crowdfunding data, hidden trends are discovered, and it can be determined which factors contribute to the success or failure of a new campaign.<br>
@@ -175,5 +175,7 @@ There are some limitations that one may encounter while analyzing this dataset.<
 
 ### Other possible tables/graphs 
 :black_small_square: Pivot tables can be created to compare the differences among countries in terms of receiving funds from backers, length of campaigns, and so on and analyze whether there is any relationship between these factors and Outcomes (success or failure of campaigns).<br>
-:black_small_square: A pivot table can be created to determine which campaigns and at which months of the year receive more funding from backers on average.
-
+:black_small_square: A pivot table can be created to determine which campaigns and at which months of the year receive more funding from backers on average.<br>
+<br>
+<br>
+\*This project was done as part of the University of Toronto Data Analytics program.
